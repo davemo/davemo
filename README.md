@@ -6,7 +6,6 @@ I'm a 🇨🇦 **Full-Stack Engineer**
 
 - 📍 Based in Kemptville, ON
 - 👨🏼‍💻 I love [JavaScript](https://github.com/topics/javascript), [Svelte](https://svelte.dev), [Devops](https://en.wikipedia.org/wiki/DevOps), [CSS](https://css-tricks.com) and just about everything in between!
-- 💼 Currently working for [Clerk](https://www.clerk.dev), building complete user management tools.
 - ⚡ Fun fact: I can do a pretty good Donald Duck voice.
 - 🤔 You can read what I'm thinking about on my [blog](https://blog.davemo.com).
 - 🎶 I compose and upload music on [bandcamp](https://davemo.bandcamp.com) and [soundcloud](https://soundcloud.com/dmosher).
