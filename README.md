@@ -2,7 +2,7 @@
 
 ![davemo on a wakeboard](https://user-images.githubusercontent.com/69559/143642818-217100a6-2df5-4c89-8639-e224cd56fd82.jpeg)
 
-I'm a 🇨🇦 **Full-Stack Staff Software Engineer**
+I'm a 🇨🇦 **Full-Stack Principal Software Consultant**
 
 - 📍 Based in Kemptville, ON
 - 👨🏼‍💻 I love [JavaScript](https://github.com/topics/javascript), [Svelte](https://svelte.dev), [Devops](https://en.wikipedia.org/wiki/DevOps), [CSS](https://css-tricks.com) and just about everything in between!
